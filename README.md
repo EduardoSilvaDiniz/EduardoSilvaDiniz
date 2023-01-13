@@ -8,7 +8,7 @@
 - 📫 Como chegar até mim: Me chama no likendin
 
 
-  [![My Skills](https://skillicons.dev/icons?i=bash,python,vim,linux,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bash,python,vim,linux,docker,kubernetes,git)](https://skillicons.dev)
   
   ##
 
