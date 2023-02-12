@@ -3,12 +3,12 @@
 ##
 
 - 🔭 estou Procurando Uma Oportunidade de Vaga de Emprego
-- 🌱 No Momento estou Aprendendo Python
+- 🌱 No Momento estou Aprendendo ShellScript e Linux
 - 🎒 Atualmente Cursando na Anhaguera DevOps
 - 📫 Como chegar até mim: Me chama no likendin
 
 
-  [![My Skills](https://skillicons.dev/icons?i=bash,python,vim,linux,docker,kubernetes,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bash,vim,linux,docker,kubernetes,git)](https://skillicons.dev)
   
   ##
 
