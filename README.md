@@ -5,10 +5,9 @@
 - 🔭 estou Procurando Uma Oportunidade de Vaga de Emprego
 - 🌱 No Momento estou Aprendendo Shell script e Linux
 - 🎒 Atualmente Cursando na Anhaguera Devops
-- 📫 Como chegar até mim: Linkendin ou Email
+- 📫 Como chegar até mim: Linkedin ou Email
 
-
-  [![My Skills](https://skillicons.dev/icons?i=bash,vim,linux,docker,kubernetes,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,git,docker,kubernetes)](https://skillicons.dev)
   
   ##
 
