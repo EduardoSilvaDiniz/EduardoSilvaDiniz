@@ -4,7 +4,7 @@
 
 - 🔭 estou Procurando Uma Oportunidade de Vaga de Emprego
 - 🌱 No Momento estou Aprendendo Linguagem C, Python
-- 🎒 Atualmente Cursando na Ciência da Computação na UNASP
+- 🎒 Atualmente Cursando Ciência da Computação na UNASP
 - 📫 Como chegar até mim: Linkedin ou Email
 
   [![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,git,docker,kubernetes)](https://skillicons.dev)
