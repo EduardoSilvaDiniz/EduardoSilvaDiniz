@@ -3,7 +3,7 @@
 ##
 
 - 🔭 estou Procurando Uma Oportunidade de Vaga de Emprego
-- 🌱 No Momento estou Aprendendo Linguagem C, Java
+- 🌱 No Momento estou Aprendendo C e Java
 - 🎒 Atualmente Cursando Ciência da Computação na UNASP
 - 📫 Como chegar até mim: Linkedin ou Email
 
