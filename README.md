@@ -7,7 +7,7 @@
 - 🎒 Atualmente Cursando Ciência da Computação na UNASP
 - 📫 Como chegar até mim: Linkedin ou Email
 
-  [![My Skills](https://skillicons.dev/icons?i=linux,c,java,bash,emacs,vim,git,docker,kubernetes)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,java,bash,linux,emacs,vim,git,docker,kubernetes)](https://skillicons.dev)
   
   ##
 
