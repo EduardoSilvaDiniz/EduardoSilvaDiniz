@@ -4,7 +4,7 @@
 
 - 🔭 Estou procurando uma oportunidade de vaga de emprego
 - 🌱 No momento estou aprendendo Java
-- 🎒 Atualmente cursando ciência da computação na UNASP
+- 🎒 Atualmente cursando ciência da computação
 - 📫 Como chegar até mim: Linkedin ou Email
 
   [![My Skills](https://skillicons.dev/icons?i=java,linux,git,docker)](https://skillicons.dev)
