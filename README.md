@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Estou procurando uma oportunidade de vaga de emprego
+- 🔭 Estou procurando uma oportunidade de vaga de estágio
 - 🌱 No momento estou aprendendo Java
 - 🎒 Atualmente cursando ciência da computação
 - 📫 Como chegar até mim: Linkedin ou Email
