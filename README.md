@@ -1,17 +1,4 @@
-### Olá Bem Vindo Ao Meu Perfil 👋
-
-##
-
-- 🔭 Estou procurando uma oportunidade de vaga de estágio
-- 🌱 No momento estou aprendendo Java
-- 🎒 Atualmente cursando ciência da computação
-- 📫 Como chegar até mim: Linkedin ou Email
-
-  [![My Skills](https://skillicons.dev/icons?i=java,linux,git,docker)](https://skillicons.dev)
-  
-  ##
-
-<div>
-  <a href="https://www.linkedin.com/in/eduardo-silvafox" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:eduardofox989@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  </div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
