@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Edu</h1>
+<h1 align="center">Hi 👋, I'm Eduardo</h1>
 
-<h3 align="center">🌟 I have xp at:</h3>
+<h3 align="center">🌟 I have experience in:</h3>
 
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
