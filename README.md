@@ -21,6 +21,9 @@
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/>
     </a>
+        <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="flutter" width="40" height="40"/>
+    </a>
 </p>
 
 <p align="center">
@@ -35,6 +38,9 @@
     </a>
     <a href="https://voidlinux.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" alt="void" width="40" height="40"/>
+    </a>
+    <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/512px-Fedora_icon_%282021%29.svg.png" alt="fedora" width="40" height="40"/>
     </a>
 </p>
 
