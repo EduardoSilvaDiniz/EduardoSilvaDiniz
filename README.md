@@ -9,17 +9,11 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
-    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cpp" width="40" height="40"/>
-    </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/>
     </a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon~alt.svg" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
@@ -55,17 +49,17 @@
 </p>
 
 <p align="center">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
-    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     </a>
 </p>
 
@@ -78,12 +72,6 @@
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     </a>
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
