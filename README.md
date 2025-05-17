@@ -9,11 +9,11 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/>
+    </a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
     </a>
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
@@ -39,35 +39,29 @@
 </p>
 
 <p align="center">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
-    </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
     </a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+    </a>
 </p>
 
 <p align="center">
-    <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" alt="emacs" width="40" height="40"/>
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
     </a>
-    <a href="https://nodejs.org/pt" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+    <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/>
     </a>
 </p>
 
