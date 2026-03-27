@@ -3,7 +3,7 @@
 <h3 align="center">🌟 I have experience in:</h3>
 
 <h3 align="center">Languages:</h3>
-
+<div>
 <p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="bash" width="40" height="40"/>
@@ -68,10 +68,12 @@
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
     </a>
 </p>
+    
+</div>
 
 ---
+
 <h3 align="center">😎 My Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="andrey0189" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoSilvaDiniz&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="andrey0189" /></p>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" />
+</div>
