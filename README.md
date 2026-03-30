@@ -17,6 +17,12 @@
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
     </a>
+    <a href="https://openjdk.org/index.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+    </a>
 </p>
 <h3 align="center">Distros Linux:</h3>
 
@@ -66,6 +72,9 @@
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
+    </a>
+    <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"/>
     </a>
 </p>
     
