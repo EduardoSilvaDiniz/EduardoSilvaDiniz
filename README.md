@@ -4,78 +4,40 @@
 
 <h3 align="center">Languages:</h3>
 <div>
+
 <p align="center">
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-    <a href="https://openjdk.org/index.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    </a>
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img
+      src="https://i.icoziv.workers.dev/icons?i=python,bash,go,java,php"
+    />
+  </a>
 </p>
+
 <h3 align="center">Distros Linux:</h3>
-
-
 <p align="center">
-    <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40"/>
-    </a>
-    <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40"/>
-    </a>
-    <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="fedora" width="40" height="40"/>
-    </a>
-    <a href="https://www.gentoo.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg" alt="gentoo" width="40" height="40"/>
-    </a>
-    <a href="https://www.nixos.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="nixos" width="40" height="40"/>
-    </a>
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img
+      src="https://i.icoziv.workers.dev/icons?i=debian,fedora,archlinux,gentoo,nixos"
+    />
+  </a>
 </p>
+
+<h3 align="center">Devops:</h3>
+<p align="center">
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img
+      src="https://i.icoziv.workers.dev/icons?i=docker,kubernetes,ansible,terraform,aws,nginx,cloudflare"
+    />
+  </a>
+</p>
+
 <h3 align="center">Tools:</h3>
-
-
 <p align="center">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/>
-    </a>
-</p>
-<h3 align="center">Frameworks:</h3>
-
-<p align="center">
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
-    </a>
-    <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"/>
-    </a>
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img
+      src="https://i.icoziv.workers.dev/icons?i=numpy,pandas,sql,postgresql,git,neovim"
+    />
+  </a>
 </p>
     
 </div>
@@ -83,6 +45,20 @@
 ---
 
 <h3 align="center">😎 My Stats:</h3>
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" />
+<div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" 
+    height="150" 
+    alt="Github Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" 
+    height="150" 
+    alt="Top Langs" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" 
+    height="140" 
+    alt="Github Streak" 
+  />
 </div>
