@@ -45,20 +45,15 @@
 ---
 
 <h3 align="center">😎 My Stats:</h3>
-<div>
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" 
-    height="150" 
+    height="200" 
     alt="Github Stats" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" 
-    height="150" 
+    height="200" 
     alt="Top Langs" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoSilvaDiniz&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" 
-    height="140" 
-    alt="Github Streak" 
   />
 </div>
